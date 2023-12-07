@@ -3,12 +3,32 @@
     <title>test3</title>
     <link href="https://github.com/gitrat99/test3site/feed.xml" rel="self" />
     <link href="https://github.com/gitrat99/test3site" />
-    <updated>2023-12-06T04:02:12-08:00</updated>
+    <updated>2023-12-06T22:26:22-08:00</updated>
     <author>
         <name>test3 author</name>
     </author>
     <id>https://github.com/gitrat99/test3site</id>
 
+    <entry>
+        <title>post 2</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://github.com/gitrat99/test3site/post-2.html"/>
+        <id>https://github.com/gitrat99/test3site/post-2.html</id>
+
+        <updated>2023-12-06T22:26:22-08:00</updated>
+            <summary>
+                <![CDATA[
+                    test post 2
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test post 2</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>title of test3</title>
         <author>

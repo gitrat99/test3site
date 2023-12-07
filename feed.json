@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://github.com/gitrat99/test3site/post-2.html",
+            "url": "https://github.com/gitrat99/test3site/post-2.html",
+            "title": "post 2",
+            "summary": "test post 2",
+            "content_html": "<p>test post 2</p>",
+            "author": {
+                "name": "test3 author"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-06T22:26:22-08:00",
+            "date_modified": "2023-12-06T22:26:22-08:00"
+        },
+        {
             "id": "https://github.com/gitrat99/test3site/title-of-test3.html",
             "url": "https://github.com/gitrat99/test3site/title-of-test3.html",
             "title": "title of test3",
