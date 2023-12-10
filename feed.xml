@@ -1,73 +1,229 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test3</title>
+    <title>themeTest</title>
     <link href="https://gitrat99.github.io/test3site/feed.xml" rel="self" />
     <link href="https://gitrat99.github.io/test3site" />
-    <updated>2023-12-06T23:24:46-08:00</updated>
+    <updated>2023-12-10T08:09:37-08:00</updated>
     <author>
         <name>test3 author</name>
     </author>
     <id>https://gitrat99.github.io/test3site</id>
 
     <entry>
-        <title>post 3</title>
+        <title>test for url</title>
         <author>
             <name>test3 author</name>
         </author>
-        <link href="https://gitrat99.github.io/test3site/post-3.html"/>
-        <id>https://gitrat99.github.io/test3site/post-3.html</id>
+        <link href="https://gitrat99.github.io/test3site/test-for-url/"/>
+        <id>https://gitrat99.github.io/test3site/test-for-url/</id>
 
-        <updated>2023-12-06T23:24:46-08:00</updated>
+        <updated>2023-12-10T08:09:37-08:00</updated>
             <summary>
                 <![CDATA[
-                    slkadjflksajfdljsadflkajslkfdsa
+                    test for url text
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>slkadjflksajfdljsadflkajslkfdsa</p>
+                <p>test for url text</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>post 2</title>
+        <title>blank template test1</title>
         <author>
             <name>test3 author</name>
         </author>
-        <link href="https://gitrat99.github.io/test3site/post-2.html"/>
-        <id>https://gitrat99.github.io/test3site/post-2.html</id>
+        <link href="https://gitrat99.github.io/test3site/blank-template-test1/"/>
+        <id>https://gitrat99.github.io/test3site/blank-template-test1/</id>
 
-        <updated>2023-12-06T22:26:22-08:00</updated>
+        <updated>2023-12-10T06:36:16-08:00</updated>
             <summary>
                 <![CDATA[
-                    test post 2
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test post 2</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.<br><br>Suspendisse ac lacus risus. Aliquam erat volutpat. Vestibulum non aliquam sapien. Suspendisse rhoncus urna sit amet sem cursus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sit amet nulla ut felis efficitur vestibulum quis ut augue. Morbi in eleifend ipsum. Duis vel nunc sapien. Vestibulum non eleifend felis. Sed vel neque leo. Nullam imperdiet eget nulla eget tincidunt.<br><br>Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius sollicitudin lectus, sed venenatis magna facilisis vel. Curabitur et interdum dolor. Cras blandit non justo at sollicitudin. Cras a mi at diam congue tempor eget sit amet orci. Quisque auctor felis vel est sollicitudin rhoncus. Integer eget risus diam. Cras ultrices nibh erat, quis vestibulum augue congue auctor. In laoreet tincidunt justo vel blandit. Integer ut justo ac lectus commodo tristique vitae vel ligula. Etiam varius felis eget tellus consectetur, id blandit enim sodales.</p>
+<figure class="post__image"><img loading="lazy"  src="https://gitrat99.github.io/test3site/media/posts/20/fidan-nazim-qizi-771-3.jpeg" alt="alt text for black dress woman" width="2118" height="2118" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://gitrat99.github.io/test3site/media/posts/20/responsive/fidan-nazim-qizi-771-3-xs.jpeg 300w ,https://gitrat99.github.io/test3site/media/posts/20/responsive/fidan-nazim-qizi-771-3-sm.jpeg 480w ,https://gitrat99.github.io/test3site/media/posts/20/responsive/fidan-nazim-qizi-771-3-md.jpeg 749w ,https://gitrat99.github.io/test3site/media/posts/20/responsive/fidan-nazim-qizi-771-3-xl.jpeg 1200w"></figure>
+<figure class="post__image"><br><br>Integer neque lectus, ornare vel dolor quis, faucibus finibus orci. Quisque interdum sit amet sem id vulputate. Ut vestibulum magna ut lorem placerat, eu lacinia elit congue. Nunc iaculis volutpat dui. Praesent ultricies molestie quam non bibendum. Duis sagittis consectetur pharetra. Maecenas non augue ut metus pulvinar sollicitudin. Praesent ullamcorper sagittis ligula, vitae tincidunt urna hendrerit non. Vestibulum malesuada dui sed dui molestie interdum. Suspendisse hendrerit tellus eu gravida lobortis. Donec vehicula fringilla magna tincidunt dignissim. Praesent a magna finibus, eleifend risus vel, accumsan ipsum. Nullam eget quam augue. Etiam eu tempor massa, nec auctor purus.<br><img loading="lazy"  src="https://gitrat99.github.io/test3site/media/posts/20/lena-goncharova-200.jpeg" alt="lena alt text test" width="732" height="785" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://gitrat99.github.io/test3site/media/posts/20/responsive/lena-goncharova-200-xs.jpeg 300w ,https://gitrat99.github.io/test3site/media/posts/20/responsive/lena-goncharova-200-sm.jpeg 480w ,https://gitrat99.github.io/test3site/media/posts/20/responsive/lena-goncharova-200-md.jpeg 749w ,https://gitrat99.github.io/test3site/media/posts/20/responsive/lena-goncharova-200-xl.jpeg 1200w"></figure><br>Aliquam eu tempor arcu. Donec in lacus imperdiet, luctus tortor eu, ultrices ex. Aenean gravida dignissim risus, ac finibus risus malesuada faucibus. Proin faucibus blandit justo, nec laoreet eros rutrum ut. Donec sit amet dui nunc. Donec vel libero diam. Morbi sed felis eu lacus dictum laoreet vel vel elit. Cras tortor dolor, feugiat vulputate ipsum a, fringilla pharetra nulla. Ut mauris purus, ullamcorper vel commodo sit amet, tristique non mi. Nulla dignissim nisl vitae elit ultrices, vel suscipit purus ultricies. Quisque id iaculis eros. Aenean ornare mi in elit pharetra, a semper dui mollis. Nulla varius consequat blandit. Mauris non venenatis quam. Aenean pulvinar, lorem at feugiat vestibulum, erat ipsum pretium neque, ac rhoncus enim ex at leo. Etiam quis odio non neque condimentum maximus viverra a turpis.</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>title of test3</title>
+        <title>bootstrap test</title>
         <author>
             <name>test3 author</name>
         </author>
-        <link href="https://gitrat99.github.io/test3site/title-of-test3.html"/>
-        <id>https://gitrat99.github.io/test3site/title-of-test3.html</id>
+        <link href="https://gitrat99.github.io/test3site/bootstrap-test/"/>
+        <id>https://gitrat99.github.io/test3site/bootstrap-test/</id>
 
-        <updated>2023-12-06T22:43:35-08:00</updated>
+        <updated>2023-12-10T04:45:07-08:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar&hellip;
+                    boot strap test This faded back jumbotron is useful for placeholder content. It's also a great way to add a bit of context to a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.<br><br>Suspendisse ac lacus risus. Aliquam erat volutpat. Vestibulum non aliquam sapien. Suspendisse rhoncus urna sit amet sem cursus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sit amet nulla ut felis efficitur vestibulum quis ut augue. Morbi in eleifend ipsum. Duis vel nunc sapien. Vestibulum non eleifend felis. Sed vel neque leo. Nullam imperdiet eget nulla eget tincidunt. pic</p>
-<figure class="post__image"><img loading="lazy"  src="https://gitrat99.github.io/test3site/media/posts/1/margarita-354-2.jpeg" alt="" width="3089" height="2048" sizes="100vw" srcset="https://gitrat99.github.io/test3site/media/posts/1/responsive/margarita-354-2-xs.jpeg 300w ,https://gitrat99.github.io/test3site/media/posts/1/responsive/margarita-354-2-sm.jpeg 480w ,https://gitrat99.github.io/test3site/media/posts/1/responsive/margarita-354-2-md.jpeg 768w ,https://gitrat99.github.io/test3site/media/posts/1/responsive/margarita-354-2-lg.jpeg 1024w ,https://gitrat99.github.io/test3site/media/posts/1/responsive/margarita-354-2-xl.jpeg 1360w ,https://gitrat99.github.io/test3site/media/posts/1/responsive/margarita-354-2-2xl.jpeg 1600w"></figure>
-<p><br><br>Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius sollicitudin lectus, sed venenatis magna facilisis vel. Curabitur et interdum dolor. Cras blandit non justo at sollicitudin. Cras a mi at diam congue tempor eget sit amet orci. Quisque auctor felis vel est sollicitudin rhoncus. Integer eget risus diam. Cras ultrices nibh erat, quis vestibulum augue congue auctor. In laoreet tincidunt justo vel blandit. Integer ut justo ac lectus commodo tristique vitae vel ligula. Etiam varius felis eget tellus consectetur, id blandit enim sodales.<br><br>Integer neque lectus, ornare vel dolor quis, faucibus finibus orci. Quisque interdum sit amet sem id vulputate. Ut vestibulum magna ut lorem placerat, eu lacinia elit congue. Nunc iaculis volutpat dui. Praesent ultricies molestie quam non bibendum. Duis sagittis consectetur pharetra. Maecenas non augue ut metus pulvinar sollicitudin. Praesent ullamcorper sagittis ligula, vitae tincidunt urna hendrerit non. Vestibulum malesuada dui sed dui molestie interdum. Suspendisse hendrerit tellus eu gravida lobortis. Donec vehicula fringilla magna tincidunt dignissim. Praesent a magna finibus, eleifend risus vel, accumsan ipsum. Nullam eget quam augue. Etiam eu tempor massa, nec auctor purus.<br><br>Aliquam eu tempor arcu. Donec in lacus imperdiet, luctus tortor eu, ultrices ex. Aenean gravida dignissim risus, ac finibus risus malesuada faucibus. Proin faucibus blandit justo, nec laoreet eros rutrum ut. Donec sit amet dui nunc. Donec vel libero diam. Morbi sed felis eu lacus dictum laoreet vel vel elit. Cras tortor dolor, feugiat vulputate ipsum a, fringilla pharetra nulla. Ut mauris purus, ullamcorper vel commodo sit amet, tristique non mi. Nulla dignissim nisl vitae elit ultrices, vel suscipit purus ultricies. Quisque id iaculis eros. Aenean ornare mi in elit pharetra, a semper dui mollis. Nulla varius consequat blandit. Mauris non venenatis quam. Aenean pulvinar, lorem at feugiat vestibulum, erat ipsum pretium neque, ac rhoncus enim ex at leo. Etiam quis odio non neque condimentum maximus viverra a turpis.</p>
+                <p>boot strap test</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<div class="container my-5">
+<div class="position-relative p-5 text-center text-muted bg-body border border-dashed rounded-5"><button class="position-absolute top-0 end-0 p-3 m-3 btn-close bg-secondary bg-opacity-10 rounded-pill" type="button" aria-label="Close"></button> <svg class="bi mt-5 mb-3" width="48" height="48"><use xlink:href="#check2-circle"></use></svg>
+<h1 class="text-body-emphasis">Placeholder jumbotron</h1>
+<p class="col-lg-6 mx-auto mb-4">This faded back jumbotron is useful for placeholder content. It's also a great way to add a bit of context to a page or section when no content is available and to encourage visitors to take a specific action.</p>
+<button class="btn btn-primary px-5 mb-5" type="button"> Call to action </button></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test auth  2</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/test-auth-2/"/>
+        <id>https://gitrat99.github.io/test3site/test-auth-2/</id>
+
+        <updated>2023-12-10T04:17:25-08:00</updated>
+            <summary>
+                <![CDATA[
+                    sdfasdfasdfsa
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdfasdfasdfsa</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test post for auth</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/test-post-for-auth/"/>
+        <id>https://gitrat99.github.io/test3site/test-post-for-auth/</id>
+
+        <updated>2023-12-10T04:17:08-08:00</updated>
+            <summary>
+                <![CDATA[
+                    alsdjflasjfdlkasjfdla flkas fdlksajlfdjalsd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>alsdjflasjfdlkasjfdla flkas fdlksajlfdjalsd</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>homepage 2</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/homepage-2/"/>
+        <id>https://gitrat99.github.io/test3site/homepage-2/</id>
+
+        <updated>2023-12-10T04:28:28-08:00</updated>
+            <summary>
+                <![CDATA[
+                    lsajfdlajsdlfkjsalfda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lsajfdlajsdlfkjsalfda</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>home page</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/home-page/"/>
+        <id>https://gitrat99.github.io/test3site/home-page/</id>
+
+        <updated>2023-12-09T06:13:56-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.<br><br>Suspendisse ac lacus risus. Aliquam erat volutpat. Vestibulum non aliquam sapien. Suspendisse rhoncus urna sit amet sem cursus maximus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut sit amet nulla ut felis efficitur vestibulum quis ut augue. Morbi in eleifend ipsum. Duis vel nunc sapien. Vestibulum non eleifend felis. Sed vel neque leo. Nullam imperdiet eget nulla eget tincidunt.<br><br>Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed varius sollicitudin lectus, sed venenatis magna facilisis vel. Curabitur et interdum dolor. Cras blandit non justo at sollicitudin. Cras a mi at diam congue tempor eget sit amet orci. Quisque auctor felis vel est sollicitudin rhoncus. Integer eget risus diam. Cras ultrices nibh erat, quis vestibulum augue congue auctor. In laoreet tincidunt justo vel blandit. Integer ut justo ac lectus commodo tristique vitae vel ligula. Etiam varius felis eget tellus consectetur, id blandit enim sodales.<br><br>Integer neque lectus, ornare vel dolor quis, faucibus finibus orci. Quisque interdum sit amet sem id vulputate. Ut vestibulum magna ut lorem placerat, eu lacinia elit congue. Nunc iaculis volutpat dui. Praesent ultricies molestie quam non bibendum. Duis sagittis consectetur pharetra. Maecenas non augue ut metus pulvinar sollicitudin. Praesent ullamcorper sagittis ligula, vitae tincidunt urna hendrerit non. Vestibulum malesuada dui sed dui molestie interdum. Suspendisse hendrerit tellus eu gravida lobortis. Donec vehicula fringilla magna tincidunt dignissim. Praesent a magna finibus, eleifend risus vel, accumsan ipsum. Nullam eget quam augue. Etiam eu tempor massa, nec auctor purus.<br><br>Aliquam eu tempor arcu. Donec in lacus imperdiet, luctus tortor eu, ultrices ex. Aenean gravida dignissim risus, ac finibus risus malesuada faucibus. Proin faucibus blandit justo, nec laoreet eros rutrum ut. Donec sit amet dui nunc. Donec vel libero diam. Morbi sed felis eu lacus dictum laoreet vel vel elit. Cras tortor dolor, feugiat vulputate ipsum a, fringilla pharetra nulla. Ut mauris purus, ullamcorper vel commodo sit amet, tristique non mi. Nulla dignissim nisl vitae elit ultrices, vel suscipit purus ultricies. Quisque id iaculis eros. Aenean ornare mi in elit pharetra, a semper dui mollis. Nulla varius consequat blandit. Mauris non venenatis quam. Aenean pulvinar, lorem at feugiat vestibulum, erat ipsum pretium neque, ac rhoncus enim ex at leo. Etiam quis odio non neque condimentum maximus viverra a turpis.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post for tag1</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/post-for-tag1-3/"/>
+        <id>https://gitrat99.github.io/test3site/post-for-tag1-3/</id>
+            <category term="tag 1"/>
+
+        <updated>2023-12-08T22:03:55-08:00</updated>
+            <summary>
+                <![CDATA[
+                    tag1 p3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>tag1 p3</p>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post for tag2</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/post-for-tag2-2/"/>
+        <id>https://gitrat99.github.io/test3site/post-for-tag2-2/</id>
+            <category term="tag 2"/>
+
+        <updated>2023-12-08T22:03:44-08:00</updated>
+            <summary>
+                <![CDATA[
+                    tag 2 p2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>tag 2 p2</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post for tag1</title>
+        <author>
+            <name>test3 author</name>
+        </author>
+        <link href="https://gitrat99.github.io/test3site/post-for-tag1-2/"/>
+        <id>https://gitrat99.github.io/test3site/post-for-tag1-2/</id>
+            <category term="tag 1"/>
+
+        <updated>2023-12-10T04:20:31-08:00</updated>
+            <summary>
+                <![CDATA[
+                    tag 1 p2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>tag 1 p2</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.</p>
             ]]>
         </content>
     </entry>
