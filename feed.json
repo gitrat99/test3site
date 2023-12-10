@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://gitrat99.github.io/test3site/video-test/",
+            "url": "https://gitrat99.github.io/test3site/video-test/",
+            "title": "video test",
+            "summary": "test for a video bullet list",
+            "content_html": "<p><a href=\"https://gitrat99.github.io/test3site/media/files/test-img.png\">test</a> for a video</p>\n<p>bullet list</p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>one</li>\n<li>two</li>\n<li>three</li>\n</ol>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"360\" style=\"border: none;\" scrolling=\"no\" frameborder=\"0\" src=\"https://www.bitchute.com/embed/obtMtrQuS6LT/\"></iframe></div>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://gitrat99.github.io/test3site/media/posts/22/lena-goncharova-200.jpeg",
+            "author": {
+                "name": "test3 author"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-10T08:27:15-08:00",
+            "date_modified": "2023-12-10T08:55:46-08:00"
+        },
+        {
             "id": "https://gitrat99.github.io/test3site/test-for-url/",
             "url": "https://gitrat99.github.io/test3site/test-for-url/",
             "title": "test for url",
@@ -136,21 +151,6 @@
             ],
             "date_published": "2023-12-08T22:02:29-08:00",
             "date_modified": "2023-12-08T22:03:44-08:00"
-        },
-        {
-            "id": "https://gitrat99.github.io/test3site/post-for-tag1-2/",
-            "url": "https://gitrat99.github.io/test3site/post-for-tag1-2/",
-            "title": "post for tag1",
-            "summary": "tag 1 p2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam&hellip;",
-            "content_html": "<p>tag 1 p2</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem. In tincidunt maximus dolor a scelerisque. Cras orci nisl, rutrum non venenatis quis, volutpat eu lorem. Cras turpis lacus, pulvinar et finibus non, pulvinar eget risus. Praesent ut imperdiet nunc. Cras pulvinar velit ac nisl elementum, quis ultricies mi faucibus. Sed quis nibh sodales, ultricies tortor vel, consequat orci. Pellentesque in metus malesuada, sagittis risus sed, ornare odio.</p>",
-            "author": {
-                "name": "test3 author"
-            },
-            "tags": [
-                   "tag 1"
-            ],
-            "date_published": "2023-12-08T22:02:08-08:00",
-            "date_modified": "2023-12-10T04:20:31-08:00"
         }
     ]
 }

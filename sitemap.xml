@@ -87,4 +87,12 @@
 <loc>https://gitrat99.github.io/test3site/test-post-for-auth/</loc>
 <lastmod>2023-12-10T04:17:08-08:00</lastmod>
 </url>
+<url>
+<loc>https://gitrat99.github.io/test3site/video-test/</loc>
+<lastmod>2023-12-10T08:55:46-08:00</lastmod>
+<image:image>
+<image:loc>https://gitrat99.github.io/test3site/media/posts/22/lena-goncharova-200.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
 </urlset>
