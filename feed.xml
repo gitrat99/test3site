@@ -3,7 +3,7 @@
     <title>themeTest</title>
     <link href="https://gitrat99.github.io/test3site/feed.xml" rel="self" />
     <link href="https://gitrat99.github.io/test3site" />
-    <updated>2023-12-14T07:36:33-08:00</updated>
+    <updated>2023-12-14T12:19:33-08:00</updated>
     <author>
         <name>test3 author</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>test3 author</name>
         </author>
-        <link href="https://gitrat99.github.io/test3site/index/"/>
-        <id>https://gitrat99.github.io/test3site/index/</id>
+        <link href="https://gitrat99.github.io/test3site/home/"/>
+        <id>https://gitrat99.github.io/test3site/home/</id>
 
-        <updated>2023-12-14T07:36:33-08:00</updated>
+        <updated>2023-12-14T12:19:33-08:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque lorem in lacus cursus mollis. Integer quis nibh et leo mattis aliquam eu id sem.
